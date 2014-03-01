@@ -83,3 +83,6 @@ License
 [203]: http://clang.llvm.org/ "Clang"
 
 [251]: http://www.cmake.org/ "CMake · Cross Platform Make"
+
+### NOTES for install
+this uses the mangos-cata REALM-DB repack this can be found here untill the code gets cleaned up and fully packed up into this repo - Collective Industries Dev Team
