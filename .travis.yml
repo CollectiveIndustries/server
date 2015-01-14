@@ -12,7 +12,7 @@ branches:
 # do not build with clang until fixed
 compiler:
   - gcc
-  - clang
+#  - clang
 
 before_install:
  - sudo apt-get update -qq
